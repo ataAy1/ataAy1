@@ -1,10 +1,7 @@
 
-
-
-
 <p align="center">
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://github.com/user-attachments/assets/d4c99846-e30c-42d8-bcdd-64f30544cfaa" alt="GitHub Banner" width="800" />
+    <img src="https://github.com/user-attachments/assets/f3bb0501-b53b-47d2-914b-ae8b6f55675d" alt="GitHub Banner" width="800" />
   </a>
 </p>
 
