@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Ataberk Aydın</h1>
+<h1 align="center">Hi 👋</h1>
 
 
 
