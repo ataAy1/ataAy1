@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/ataAy1" target="_blank">
     <img src="https://github.com/user-attachments/assets/f3bb0501-b53b-47d2-914b-ae8b6f55675d" alt="GitHub Banner" width="800" />
   </a>
 </p>
