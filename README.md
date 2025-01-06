@@ -5,6 +5,19 @@
   </a>
 </p>
 
+<p align="center">
+  <strong>My Apps on Google Play</strong>
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/developer?id=MoonTech+Apps" target="_blank">
+    <img src="https://github.com/user-attachments/assets/9a99acc5-43e0-4c6e-8b0e-7d1bcbf8c80a" alt="Google Play Badge" width="160" />
+  </a>
+</p>
+<hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;" />
+
+
+
 <h1 align="center">Hi 👋</h1>
 
 
@@ -12,6 +25,7 @@
 <p align="center"> 
   📫 <strong>How to reach me:</strong> moontechappstr@gmail.com
 </p>
+
 
 
 
