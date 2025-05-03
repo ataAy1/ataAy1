@@ -52,8 +52,10 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+    <img src="https://github.com/user-attachments/assets/46a47c54-a358-4252-b0e6-db25ee42c552" alt="" width="40" height="40"/> 
   </a>
+
+  
 </p>
 
 <br />
